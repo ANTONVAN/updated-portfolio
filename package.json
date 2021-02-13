@@ -1,0 +1,19 @@
+{
+  "name": "02-homework",
+  "version": "1.0.0",
+  "description": "Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANTONVAN/updated-portfolio.git"
+  },
+  "author": "Antonio Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANTONVAN/updated-portfolio/issues"
+  },
+  "homepage": "https://github.com/ANTONVAN/updated-portfolio#readme"
+}
